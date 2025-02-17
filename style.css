@@ -63,3 +63,6 @@ iframe {
   font-weight: 300;
   color: #000;
 }
+.col-md-4 {
+  margin-bottom: 10px;
+}
