@@ -31,6 +31,10 @@ iframe {
   pointer-events: none;
 }
 
+section {
+  margin-top: -75px;
+}
+
 .title {
   font-family: "Playfair Display";
   font-size: 4rem;
