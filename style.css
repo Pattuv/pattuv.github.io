@@ -21,7 +21,7 @@ a {
   text-decoration: none;
 }
 
-iframe {
+spline-viewer {
   width: 100%;
   height: 100%;
   margin-right: auto;
@@ -29,10 +29,6 @@ iframe {
   top: 0;
   right: 0;
   pointer-events: none;
-}
-
-section {
-  margin-top: -75px;
 }
 
 .title {
